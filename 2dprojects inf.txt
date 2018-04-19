@@ -1,0 +1,12 @@
+ASSET STORE->
+
+2d archers sprites
+sprite pack tap and fly
+
+https://www.codeandweb.com/tp-online/index.html
+
+
+Asset->Create->Sprites
+
+megtagelni a spriteokat
+1es  Pixel per Unit
